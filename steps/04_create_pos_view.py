@@ -111,3 +111,4 @@ if __name__ == "__main__":
         create_pos_view(session)
         create_pos_view_stream(session)
 #        test_pos_view(session)
+
